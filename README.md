@@ -12,3 +12,8 @@ Description:This app has an easy and simple to understand user interface so that
  
 Some Screenshots of this app are as follows:
 
+![Screenshot_2022-09-20-12-31-50-385_com example grocerylist](https://user-images.githubusercontent.com/97080313/191330294-f5ba0cc5-72e5-416c-8cda-25ef29f49606.jpg)
+
+![Screenshot_2022-09-20-12-32-00-723_com example grocerylist](https://user-images.githubusercontent.com/97080313/191330359-bc3c7f03-9771-4c77-b9bd-185572dab012.jpg)
+
+![Screenshot_2022-09-20-12-36-39-291_com example grocerylist](https://user-images.githubusercontent.com/97080313/191330422-48badbda-b56f-4431-a45b-604ae9b03efb.jpg)
